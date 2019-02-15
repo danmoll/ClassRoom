@@ -39,9 +39,9 @@ Vi skal nu tilføje data. Det gør vi i Main metoden.
 
 Opret en instans af KlasseRum 
 
-KlasseNavn: 3B
+KlasseNavn: 3F
 
-SemesterStart: 4-9-2018 
+SemesterStart: 29-1-2018 
 
 Tilføj dig selv og dem du sidder ved siden af i listen over studerende
 
