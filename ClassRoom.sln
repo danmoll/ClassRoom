@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRoom", "ClassRoom\ClassRoom.csproj", "{56D6C600-9F67-4F35-BD36-715638C4A5D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRoomTest", "ClassRoomTest\ClassRoomTest.csproj", "{A79DC376-17F9-48AE-A61D-D2A3B914B18C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{56D6C600-9F67-4F35-BD36-715638C4A5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56D6C600-9F67-4F35-BD36-715638C4A5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56D6C600-9F67-4F35-BD36-715638C4A5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79DC376-17F9-48AE-A61D-D2A3B914B18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79DC376-17F9-48AE-A61D-D2A3B914B18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79DC376-17F9-48AE-A61D-D2A3B914B18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79DC376-17F9-48AE-A61D-D2A3B914B18C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468C17F3-907A-4BBF-B37C-ADE8F356AE01}
 	EndGlobalSection
 EndGlobal
